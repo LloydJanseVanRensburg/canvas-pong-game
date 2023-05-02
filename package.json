@@ -1,0 +1,12 @@
+{
+    "name": "basic-pong",
+    "version": "1.0.0",
+    "main": "app.js",
+    "license": "MIT",
+    "devDependencies": {
+        "typescript": "^5.0.4"
+    },
+    "scripts": {
+        "watch": "tsc --watch"
+    }
+}
